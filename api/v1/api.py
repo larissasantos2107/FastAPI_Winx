@@ -6,4 +6,4 @@ api_router = APIRouter()
 
 api_router.include_router(winx.router, prefix="/winx", tags=["Winx"])
 
-# parte 8
+# parte 8py
